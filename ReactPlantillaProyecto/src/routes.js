@@ -24,6 +24,7 @@ import NuevoProducto from "./views/Mongodb/NuevoProducto";
 // import RTLPage from "views/RTLPage/RTLPage.jsx";
 import Register from './components/Register';
 import Firebase from './components/Firebase';
+import Mediciones2 from './components/mediciones';
 import { Link } from 'react-router-dom';
 
 
@@ -118,7 +119,15 @@ const dashboardRoutes = [
     component: Firebase,
     layout: "/admin"
   },
-
+   
+  /*{
+    path: "/mediciones2",
+    name: "Mediciones2",
+    rtlName: "إخطارات",
+    icon: 'adb',
+    component: Mediciones2,
+    layout: "/admin"
+  }, */
 
   // {
   //   path: "/upgrade-to-pro",

@@ -1,0 +1,3652 @@
+[ {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "C.E. SAN RAFAEL",
+    "grados" : "0,1,2,3,4,5,6,7,21,22,23",
+    "direccion" : "VDA. SAN RAFAEL",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001231",
+    "telefono" : "3146425681",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "C.E. MAIZ BLANCO INDIGENA",
+    "grados" : "0,1,2,3,4,5,23",
+    "direccion" : "VDA.  MAIZ BLANCO INDIGENA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001249",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO PUEBLO NUEVO",
+    "grados" : "0,1,2,3,4,5,23",
+    "direccion" : "VEREDA  PUEBLO NUEVO P.",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001257",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO BARRANCO",
+    "grados" : "0,1,2,3,4,5,23",
+    "direccion" : "VEREDA  BARRANCO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001265",
+    "telefono" : "3157350096",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO CHACHAJO",
+    "grados" : "0,1,2,3,4,5,21,22,23,24",
+    "direccion" : "VEREDA  CHACHAJO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001273",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO GUAYAQUIL",
+    "grados" : "0,1,2,3,4,21,22",
+    "direccion" : "VEREDA  GUAYAQUIL",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001281",
+    "telefono" : "313 651 19 92",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO VILLA",
+    "grados" : "0,1,2,3,4,5,23,24",
+    "direccion" : "VEREDA  VILLA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001290",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO GUABILLO",
+    "grados" : "0,1,2,3,4,5,21,22,23,24",
+    "direccion" : "VEREDA  GUABILLO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001303",
+    "telefono" : "3104155617",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO MONTE ALTO BAJO",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA MONTE ALTO BAJO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001346",
+    "telefono" : "3104649674",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SALTO MAGDALENA",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA  SALTO MAGDALENA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001354",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO CHAPILERO",
+    "grados" : "0,1,2,3,4,5,23,24",
+    "direccion" : "VEREDA  CHAPILERO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001362",
+    "telefono" : "5212924",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO BISCAINA",
+    "grados" : "0,1,2,3,4,5,23,24",
+    "direccion" : "VEREDA  BIZCAINA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001371",
+    "telefono" : "3148674616",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO BRAZO TAIJITA INDIGENA",
+    "grados" : "0,1,2,3,4,5,23,24",
+    "direccion" : "VEREDA TAIJITA INDIGENA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001389",
+    "telefono" : "3108267932",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO LA MILAGROSA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA  EL COCO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001435",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO MATAPALO",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA  MATAPALO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001443",
+    "telefono" : "5215714",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "I.E. NUESTRA SEÑORA DEL CARMEN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "IND CRA 2 ENTRE CALLES 7 Y 8",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "352250000514",
+    "telefono" : "3207211462",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "I.E. NUESTRA SEÑORA DE LAS MERCEDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26",
+    "direccion" : "IND BARRIO  EL COLEGIO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "152258000212",
+    "telefono" : "3147760214",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "CENTRO  EDUCATIVO  VILLA NUEVA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA VILLANUEVA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "552258000001",
+    "telefono" : "NO TIENE",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "CENTRO  EDUCATIVO  LA CUEVA",
+    "grados" : "0,1,2,3,4,5,6,21,22",
+    "direccion" : "IDP LA CUEVA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252258000039",
+    "telefono" : "3206662753",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "CENTRO  EDUCATIVO  LA ESPERANZA",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA LA ESPERANZA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252258000055",
+    "telefono" : "3117047539",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "CENTRO  EDUCATIVO  LA INMCULADA",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA EL SINAI",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "552258000060",
+    "telefono" : "3136448244",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "52258",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO ATIVO PITALITO BAJO",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA PITALITO BAJO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252258000071",
+    "telefono" : "3148061820",
+    "nombremunicipio" : "EL TABLÓN DE GÓMEZ"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO TECNICO DOMINGO FAUSTINO SARMIENTO  (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "IND TR. 41 NO.95-51",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001008389",
+    "telefono" : "2367748 / 2367766 /",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO HELADIA MEJIA  (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 65 15 A 04",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001009148",
+    "telefono" : "2486831 -- 2551173",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO ROBERT F. KENNEDY (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "AV BOYACA 64 H 39",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001009521",
+    "telefono" : "2519559",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAN FELIPE DE HIGUERONES",
+    "grados" : "-1,0,1,2,3,4,5,22",
+    "direccion" : "VDA HIGUERONES",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000170",
+    "telefono" : "3104586936",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO KM. 50 SAN MARTIN",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA SAN MARTIN",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000200",
+    "telefono" : "3127845105",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO JUANAMBU",
+    "grados" : "0,1,2,3,4,5,6,7",
+    "direccion" : "VDA JUANAMBU",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000218",
+    "telefono" : "3117719719",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "5847",
+    "nombreestablecimiento" : "I. E. R. JAIPERA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 39  25 14",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105847000241",
+    "telefono" : "8503593",
+    "nombremunicipio" : "URRAO"
+  }
+  , {
+    "codigomunicipio" : "5847",
+    "nombreestablecimiento" : "I. E. ESCUELA NORMAL SUPERIOR SAGRADA FAMILIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13",
+    "direccion" : "CL 29 32 48",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105847000771",
+    "telefono" : "8502566",
+    "nombremunicipio" : "URRAO"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO LUIS VARGAS TEJADA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 52 C 19 A 76 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014869",
+    "telefono" : "7411089 -- 2383695",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO SOTAVENTO (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 73 A 16 F 35 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001075752",
+    "telefono" : "7651003",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO SAN CARLOS (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,14,15,18,22,23,24,25,26,99",
+    "direccion" : "KR 19 50 37 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001075957",
+    "telefono" : "7676178",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO DIEGO MONTAÑA CUÉLLAR (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "KR 2 ESTE 101 A 01 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001076201",
+    "telefono" : "7735420 -- 7735518 -- 7610910",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO MARRUECOS Y MOLINOS (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "CL 49 D BIS SUR 5 X 02",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001076376",
+    "telefono" : "7609287",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO CASTILLA (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 78 8 A 43",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001076767",
+    "telefono" : "2923167",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO FRANCISCO DE MIRANDA (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "DG 41 SUR 73 A 80",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014974",
+    "telefono" : "2651415 -- 2651409 -- 2736252",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO ALEJANDRO OBREGON (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 30 SUR 15 45",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001015172",
+    "telefono" : "2722320 / 2095239",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO FLORIDABLANCA (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 70 A 94 38",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001015458",
+    "telefono" : "4382536 / 2527760",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO GIRARDOTH",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA GIRARDOTH",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000075",
+    "telefono" : "3167836935",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA SAN ALEJANDRO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20",
+    "direccion" : "IDP SAN ALEJANDRO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000083",
+    "telefono" : "3165582049",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAN ANTONIO",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA SAN ANTONIO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000091",
+    "telefono" : "3122211190",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO CUMAG GRANDE",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA CUMAG GRANDE",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000105",
+    "telefono" : "3148405720",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "5148",
+    "nombreestablecimiento" : "I. E.  TECNICO INDUSTRIAL JORGE ELIECER GAITAN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "KR 31 37 02",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105148000243",
+    "telefono" : "5432044--5432031",
+    "nombremunicipio" : "EL CARMEN DE VIBORAL"
+  }
+  , {
+    "codigomunicipio" : "18205",
+    "nombreestablecimiento" : "C.E. EL LIBERTADOR",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,20,21,22,23,24,25",
+    "direccion" : "VDA EL LIBERTADOR",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218205000327",
+    "telefono" : "3203466950",
+    "nombremunicipio" : "CURILLO"
+  }
+  , {
+    "codigomunicipio" : "18205",
+    "nombreestablecimiento" : "I.E. R. SALAMINA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,20,21,22,23,24,25",
+    "direccion" : "VDA SALAMINA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218205000335",
+    "telefono" : "3133947096",
+    "nombremunicipio" : "CURILLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E. MARCO FIDEL SUAREZ",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 4 CL 2 ESQ",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "118247003607",
+    "telefono" : "3208312867 - 4310508",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E RUFINO QUICHOYA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 3 CL 8",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183247000213",
+    "telefono" : "098-4310966 3112780624",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E JORGE ABEL MOLINA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 5 CL 5 ESQ",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183247000272",
+    "telefono" : "098-4310888  3112301068",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E CORAZON INMACULADO DE MARIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24",
+    "direccion" : "KR 5 1 30",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183247001198",
+    "telefono" : "098-4310128",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E. R. LA CEIBA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21",
+    "direccion" : "VDA LA CEIBA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283247000200",
+    "telefono" : "3104888881",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E. R.  BERLIN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "INSP BERLIN",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283247000391",
+    "telefono" : "3114510190",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E R. PUERTO MANRIQUE",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24",
+    "direccion" : "INSP PUERTO MANRIQUE",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283247000501",
+    "telefono" : "3134950264",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E R. SIMON BOLIVAR",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "VDA MAGUARE",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283247000641",
+    "telefono" : "3106096664",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18247",
+    "nombreestablecimiento" : "I.E. R. SAN JUDAS TADEO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,22,23,24",
+    "direccion" : "PUERTO HUNGRIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283247000731",
+    "telefono" : "3112649933",
+    "nombremunicipio" : "EL DONCELLO"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E NUESTRA SE¿ORA DE LAS MERCEDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "CL 6 KR 6",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183256000633",
+    "telefono" : "098-4314110 - 3132610951",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E AGROECOLOGICO AMAZONICO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "VDA LA NI¿A",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218256001239",
+    "telefono" : "4314111 - 3112288412",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E NIÑA DEL CARMEN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23",
+    "direccion" : "VDA LA NIÑA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256000191",
+    "telefono" : "3214490057",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E R. LA CONCORDIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21",
+    "direccion" : "VDA LA CONCORDIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256000221",
+    "telefono" : "3124471459",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E.R. SANTA TERESA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,23,24,25,26",
+    "direccion" : "VDA SANTA TERESA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256000441",
+    "telefono" : "3108026903",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E. R. BOLIVIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,22,23,24,25",
+    "direccion" : "VDA BOLIVIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256000611",
+    "telefono" : "3124769196",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "18256",
+    "nombreestablecimiento" : "I.E R. RAFAEL URIBE URIBE",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24",
+    "direccion" : "VDA VERSALLES",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256001057",
+    "telefono" : "3132639427",
+    "nombremunicipio" : "EL PAUJIL"
+  }
+  , {
+    "codigomunicipio" : "5055",
+    "nombreestablecimiento" : "I. E. SANTA TERESA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 31 26 78",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105055000022",
+    "telefono" : "8650075 -8650424",
+    "nombremunicipio" : "ARGELIA"
+  }
+  , {
+    "codigomunicipio" : "25324",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA DEPARTAMENTAL BUSCAVIDA",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "VEREDA BUSCAVIDA",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "225324000064",
+    "telefono" : "3183937317",
+    "nombremunicipio" : "GUATAQUÍ"
+  }
+  , {
+    "codigomunicipio" : "25326",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA DEPARTAMENTAL PIO XII",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,21,22,23,24,25,26",
+    "direccion" : "PARCELAS",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "125326000121",
+    "telefono" : "8577137",
+    "nombremunicipio" : "GUATAVITA"
+  }
+  , {
+    "codigomunicipio" : "25326",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA RURAL DEPARTAMENTAL JOSE GREGORIO SALAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "VDA. POTRERO LARGO",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "225326000096",
+    "telefono" : "3138399078",
+    "nombremunicipio" : "GUATAVITA"
+  }
+  , {
+    "codigomunicipio" : "25328",
+    "nombreestablecimiento" : "I.E.D. MARCO FIDEL SUAREZ",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "CLL 1 7 43",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "125328000153",
+    "telefono" : "3103078439",
+    "nombremunicipio" : "GUAYABAL DE SIQUIMA"
+  }
+  , {
+    "codigomunicipio" : "25335",
+    "nombreestablecimiento" : "IED  MONSEÑOR ALBERTO REYES FONSECA ",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "CALLE 2 Nº 3-37",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "125335000541",
+    "telefono" : "8495015",
+    "nombremunicipio" : "GUAYABETAL"
+  }
+  , {
+    "codigomunicipio" : "99773",
+    "nombreestablecimiento" : "I.E. INTERNADO RAYA - BAKATSOL OWA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22",
+    "direccion" : "COMUNID RAYA",
+    "codigodepartamento" : "99",
+    "nombredepartamento" : "VICHADA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "VICHADA",
+    "codigoestablecimiento" : "299760001061",
+    "telefono" : "3116765457",
+    "nombremunicipio" : "CUMARIBO"
+  }
+  , {
+    "codigomunicipio" : "99773",
+    "nombreestablecimiento" : "C.E. INTERNADO TRES MATAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9",
+    "direccion" : "INSP TRES MATAS",
+    "codigodepartamento" : "99",
+    "nombredepartamento" : "VICHADA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "VICHADA",
+    "codigoestablecimiento" : "299760001096",
+    "nombremunicipio" : "CUMARIBO"
+  }
+  , {
+    "codigomunicipio" : "99773",
+    "nombreestablecimiento" : "C.E. INTERNADO ASOCORTOMO",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA ASOCORTOMO",
+    "codigodepartamento" : "99",
+    "nombredepartamento" : "VICHADA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "VICHADA",
+    "codigoestablecimiento" : "299773000064",
+    "telefono" : "3143298464",
+    "nombremunicipio" : "CUMARIBO"
+  }
+  , {
+    "codigomunicipio" : "99773",
+    "nombreestablecimiento" : "C.E. INTERNADO LA CATORCE",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA LA CATORCE",
+    "codigodepartamento" : "99",
+    "nombredepartamento" : "VICHADA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "VICHADA",
+    "codigoestablecimiento" : "299773000102",
+    "telefono" : "3125559557",
+    "nombremunicipio" : "CUMARIBO"
+  }
+  , {
+    "codigomunicipio" : "99773",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO TRES ESQUINAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,99",
+    "direccion" : "COMUNID VILLANUEVA TRES ESQUINAS",
+    "codigodepartamento" : "99",
+    "nombredepartamento" : "VICHADA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "VICHADA",
+    "codigoestablecimiento" : "299773000676",
+    "nombremunicipio" : "CUMARIBO"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. SAN LUIS GONZAGA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CLL 50  62-78",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000082",
+    "telefono" : "274 73 84 Y 274 15 84",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. ESCUELA NORMAL SUPERIOR MARIA AUXILIADORA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13",
+    "direccion" : "IND AUTOPISTA NORTE KILOMETRO 14",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000112",
+    "telefono" : "274 01 01",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. JOSE MIGUEL DE RESTREPO Y PUERTA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 47 47 A 05",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000163",
+    "telefono" : "4443054 ext 1",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. VILLANUEVA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 56 56 155",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000368",
+    "telefono" : "444 30 21 - 453 42 78",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E.  PRESBITERO BERNARDO MONTOYA ",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL. 50  34 - 07",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000511",
+    "telefono" : "2741687 4012906",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "13430",
+    "nombreestablecimiento" : "INST EDUC DE CEIBAL",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "CORREG CEIBAL",
+    "codigodepartamento" : "13",
+    "nombredepartamento" : "BOLÍVAR",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "MAGANGUE",
+    "codigoestablecimiento" : "213430003082",
+    "telefono" : "0",
+    "nombremunicipio" : "MAGANGUÉ"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO GRAN COLOMBIA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5",
+    "direccion" : "KR 19 A ESTE 9 A 26 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001011975",
+    "telefono" : "3335055",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO VEINTE DE JULIO  (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 7 A 24 01 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012033",
+    "telefono" : "2721598 -- 3660830",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO PANTALEON GAITAN PEREZ (CED)",
+    "grados" : "-2,-1,0,1,2,3,4,5",
+    "direccion" : "AK 11 ESTE 11 10 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012246",
+    "telefono" : "2466284",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO RAFAEL URIBE URIBE (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "KR 25 47 00 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012271",
+    "telefono" : "7130308 -- 7242191 -- 7242135 -- 2309420",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO SAN JOSE SUR ORIENTAL (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 42 SUR 12 A 66 ESTE",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012301",
+    "telefono" : "3644229 -- 3644230 -- 3644231",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO JUANA ESCOBAR (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 15 ESTE 58 04 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012335",
+    "telefono" : "3652789",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO TOM ADAMS (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 40 J SUR 78 08",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012343",
+    "telefono" : "2997139 -- 2730340 -- 4537387",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO EL JAPON (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 78 G 38 C 11 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001012360",
+    "telefono" : "2732515 -- 2939648 -- 2939499 -- 4036380 -- 451808",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAN FRANCISCO BAJO",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA SAN FRANCISCO BAJO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000113",
+    "telefono" : "3137500259",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "52320",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO EL CID",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA EL CID",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252320000121",
+    "telefono" : "3128089036",
+    "nombremunicipio" : "GUAITARILLA"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "IE SAN PEDRO CLAVER",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 5 19 32",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "115572000011",
+    "telefono" : "7384556",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "I.E. ANTONIA SANTOS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 2 7 21",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "115572000062",
+    "telefono" : "7383073",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "IE JOSE ANTONIO GALAN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 5 26 0 EQ",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,MEDIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "115572000321",
+    "telefono" : "7386130",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "IE JOHN F. KENNEDY",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 3 A 7 01",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "115572000348",
+    "telefono" : "87384114",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "I.E.T. PUERTO SERVIEZ",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "VDA PUERTO SERVIEZ ",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "215572000121",
+    "telefono" : "3132577645",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "15572",
+    "nombreestablecimiento" : "I.E.T. JOSE JOAQUIN ORTIZ",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KM 2 Y 1/2 VIA BOGOTA",
+    "codigodepartamento" : "15",
+    "nombredepartamento" : "BOYACÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOYACA",
+    "codigoestablecimiento" : "215572000181",
+    "telefono" : "3124470979",
+    "nombremunicipio" : "PUERTO BOYACÁ"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO PLAYA MORRITO",
+    "grados" : "0,1,2,3,4,5,21,22,23,24",
+    "direccion" : "VEREDA  PLAYA MORRITO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001141",
+    "telefono" : "3206482426",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "52250",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO EL MERO INDIGENA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA  EL MERO INDIGENA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252250001214",
+    "telefono" : "3214620775",
+    "nombremunicipio" : "EL CHARCO"
+  }
+  , {
+    "codigomunicipio" : "5148",
+    "nombreestablecimiento" : "I. E. FRAY JULIO TOBON B.",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 32 29 20",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105148000308",
+    "telefono" : "5432073-5432582",
+    "nombremunicipio" : "EL CARMEN DE VIBORAL"
+  }
+  , {
+    "codigomunicipio" : "5148",
+    "nombreestablecimiento" : "I. E. CAMPESTRE NUEVO HORIZONTE",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22",
+    "direccion" : "CORREG. LA CHAPA",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105148000863",
+    "telefono" : "5431585",
+    "nombremunicipio" : "EL CARMEN DE VIBORAL"
+  }
+  , {
+    "codigomunicipio" : "5154",
+    "nombreestablecimiento" : "C. E. R. SANTA ROSITA",
+    "grados" : "0,1,2,3,4,5,21,22",
+    "direccion" : "VDA. CAMPO ALEGRE",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205154000438",
+    "telefono" : "8392090",
+    "nombremunicipio" : "CAUCASIA"
+  }
+  , {
+    "codigomunicipio" : "5154",
+    "nombreestablecimiento" : "C. E. R. ALTO CACERI",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "CORRG PUERTO TRIANA",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205154000471",
+    "telefono" : "830 86 70",
+    "nombremunicipio" : "CAUCASIA"
+  }
+  , {
+    "codigomunicipio" : "5154",
+    "nombreestablecimiento" : "I. E. MARGENTO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21",
+    "direccion" : "CORREG. MARGENTO",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205154000896",
+    "telefono" : "8308230 y 8399315",
+    "nombremunicipio" : "CAUCASIA"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO REPUBLICA FEDERAL DE ALEMANIA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 24 44 05 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014028",
+    "telefono" : "2799616 / 7142428 /",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO BRASILIA - BOSA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 52 A SUR 87 D 45",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014109",
+    "telefono" : "7831779",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO ALTAMIRA SURORIENTAL (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 42 A SUR 12 A 27 ESTE",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014168",
+    "telefono" : "2068596 -- 3672172",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO SAN CRISTOBAL SUR (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,22,23,24,25,26",
+    "direccion" : "KR 7 ESTE 14 76 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014176",
+    "telefono" : "2464811 -- 2460043 -- 3337037",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO MARCO FIDEL SUAREZ (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "DG 52 SUR 25 00",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014206",
+    "telefono" : "2388713  --  2304300  --  7410022",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO CIUDAD DE BOGOTA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 25 53 B 32 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014214",
+    "telefono" : "2307620 -- 2707792",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO MARSELLA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 69 7 90",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001014290",
+    "telefono" : "4202341 -- 4202399",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "5887",
+    "nombreestablecimiento" : "I. E. OCHALI",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21",
+    "direccion" : "CORREG. OCHALI  Y VDA LA ZORRA",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205887001201",
+    "telefono" : "8537712",
+    "nombremunicipio" : "YARUMAL"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO MANUELA AYALA DE GAITAN (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 71 75 11",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046299",
+    "telefono" : "2248468 -- 2763648 -- 4385222",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO GRAN COLOMBIANO (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 73 F SUR 80 BIS 49",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046477",
+    "telefono" : "7196611",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO NUEVO SAN ANDRES DE LOS ALTOS (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 69 SUR 2 B 15",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046485",
+    "telefono" : "7688210",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO JOSE ANTONIO GALAN (IED)",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 78 J 58 M 22 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046591",
+    "telefono" : "7752586",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO NUEVA DELHI (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 62 A SUR 14 I 33 ESTE",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046621",
+    "telefono" : "3652024 -- 3652313 -- 3652314",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO ATABANZHA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 92 SUR 2 43",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046931",
+    "telefono" : "7641219 -- 7646512 -- 7641220",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO TOBERIN (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 166 16 C 15",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001046957",
+    "telefono" : "6696782 -- 6790327 -- 6790780",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO LA ARABIA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,11,99",
+    "direccion" : "KR 18 H 81 D 69 SUR IN 1",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001047457",
+    "telefono" : "5691883",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO ARBORIZADORA ALTA (IED)",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "KR 43 70 A 50 SUR",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001047571",
+    "telefono" : "7153622 / 7168062",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "19533",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO PUERTO GUAYUYACO",
+    "grados" : "0,1,2,3,4,5,21,22,23,24,25,26",
+    "direccion" : "VEREDA PUERTO GUAYUYACO",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAUCA",
+    "codigoestablecimiento" : "219533000767",
+    "telefono" : "0",
+    "nombremunicipio" : "PIAMONTE"
+  }
+  , {
+    "codigomunicipio" : "19533",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO LA PALMERA",
+    "grados" : "0,1,2,3,4,5,21,22,23,24,25,26",
+    "direccion" : "VEREDA LA PALMERA",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAUCA",
+    "codigoestablecimiento" : "219701001097",
+    "nombremunicipio" : "PIAMONTE"
+  }
+  , {
+    "codigomunicipio" : "25339",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA DEPARTAMENTAL DE GUTIERREZ",
+    "grados" : "-3,0,1,2,3,4,5,6,7,8,9,10,11,18,21,22,23,24,25,26",
+    "direccion" : "CALLE 9 NO 6A-93",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA,PRIMERA INFANCIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "125339000261",
+    "telefono" : "8489116",
+    "nombremunicipio" : "GUTIÉRREZ"
+  }
+  , {
+    "codigomunicipio" : "25368",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA DEPARTAMENTAL NACIONALIZADO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "PARQUE PRINCIPAL",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "125368000164",
+    "telefono" : "8370034",
+    "nombremunicipio" : "JERUSALÉN"
+  }
+  , {
+    "codigomunicipio" : "25372",
+    "nombreestablecimiento" : "I.E.D. NUESTRA SEÑORA DEL CARMEN",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "VEREDA  SAN FRANCISCO",
+    "codigodepartamento" : "25",
+    "nombredepartamento" : "CUNDINAMARCA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CUNDINAMARCA",
+    "codigoestablecimiento" : "225372000777",
+    "telefono" : "3114829776",
+    "nombremunicipio" : "JUNÍN"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E R. MATEGUADUA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26",
+    "direccion" : "INSP MATEGUADUA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410000119",
+    "telefono" : "3118149600",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E NUESTRA SEÑORA DEL PERPETUO SOCORRO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 5 3 71",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183410000030",
+    "telefono" : "098-4300110- 3134947963",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E. R. REINA BAJA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24,25",
+    "direccion" : "VDA REINA BAJA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410000101",
+    "telefono" : "3202789611",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "88001",
+    "nombreestablecimiento" : "I.E. DE LA SAGRADA FAMILIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "IND AVENIDA SAN LUIS",
+    "codigodepartamento" : "88",
+    "nombredepartamento" : "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "SAN ANDRES",
+    "codigoestablecimiento" : "388001000088",
+    "telefono" : "512 56 16",
+    "nombremunicipio" : "SAN ANDRÉS"
+  }
+  , {
+    "codigomunicipio" : "88001",
+    "nombreestablecimiento" : "I.E. EL CARMELO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9",
+    "direccion" : "IND AVE. ROCK HOLLE",
+    "codigodepartamento" : "88",
+    "nombredepartamento" : "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "SAN ANDRES",
+    "codigoestablecimiento" : "188001000178",
+    "telefono" : "512 37 10   512 741 5",
+    "nombremunicipio" : "SAN ANDRÉS"
+  }
+  , {
+    "codigomunicipio" : "88564",
+    "nombreestablecimiento" : "I.E. JUNIN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "IND  PUEBLO VIEJO",
+    "codigodepartamento" : "88",
+    "nombredepartamento" : "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "SAN ANDRES",
+    "codigoestablecimiento" : "288564000136",
+    "telefono" : "514 80 56  514 849 2",
+    "nombremunicipio" : "PROVIDENCIA"
+  }
+  , {
+    "codigomunicipio" : "88564",
+    "nombreestablecimiento" : "I.E. MARIA INMACULADA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9",
+    "direccion" : "IND LA FLORIDA",
+    "codigodepartamento" : "88",
+    "nombredepartamento" : "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "SAN ANDRES",
+    "codigoestablecimiento" : "488564000216",
+    "telefono" : "514 81 05",
+    "nombremunicipio" : "PROVIDENCIA"
+  }
+  , {
+    "codigomunicipio" : "88564",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO BOMBONA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "IND SUR OESTE",
+    "codigodepartamento" : "88",
+    "nombredepartamento" : "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "SAN ANDRES",
+    "codigoestablecimiento" : "288564000195",
+    "telefono" : "5148774",
+    "nombremunicipio" : "PROVIDENCIA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E. R. PALMA ARRIBA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24,25",
+    "direccion" : "VDA PALMA ARRIBA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410001247",
+    "telefono" : "3118359604",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E. R. BRISAS DE SAN ISIDRO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "VDA BRISAS DE SAN ISIDRO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410001271",
+    "telefono" : "3133910367",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E.R. EL DIVISO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23",
+    "direccion" : "VDA ALTO ARENOSO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410001328",
+    "telefono" : "3222238918",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "C.E. EL JARDIN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,22,23,24",
+    "direccion" : "VDA MIRAMAR",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218410001433",
+    "telefono" : "3212194409",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E. R. AGRO NUÑEZ",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24,25",
+    "direccion" : "VDA ALTO CUARENTA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218765000101",
+    "telefono" : "3123509065",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "C.E LA ARGENTINA",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VDA LA ARGENTINA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283256000701",
+    "telefono" : "3134667403",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E.R. EL CEDRO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,22,23,24",
+    "direccion" : "VDA EL CEDRO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283410000191",
+    "telefono" : "3115498429",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "C.E. GAITANIA",
+    "grados" : "0,1,2,3,4,5,22,23",
+    "direccion" : "VDA GAITANIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283410000263",
+    "telefono" : "3107938123",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "18410",
+    "nombreestablecimiento" : "I.E RURAL SABIO CALDAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24",
+    "direccion" : "INSP SANTUARIO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283410000557",
+    "telefono" : "3132403777",
+    "nombremunicipio" : "LA MONTAÑITA"
+  }
+  , {
+    "codigomunicipio" : "5154",
+    "nombreestablecimiento" : "I. E. CUTURU",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CORREG CUTURU",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205154000977",
+    "telefono" : "8385130- 8399315",
+    "nombremunicipio" : "CAUCASIA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. GABRIELA MISTRAL",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 28  43-119",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000538",
+    "telefono" : "2748300 - 4484323 - 4010510",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E.  LA TRINIDAD",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 41 78 C 32",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105212000830",
+    "telefono" : "481 01 34",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "5212",
+    "nombreestablecimiento" : "I. E. R. GRANJAS INFANTILES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "AUTOPISTA. NORTE KM 18",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "205212000061",
+    "telefono" : "467 49 61 - 448 26 14",
+    "nombremunicipio" : "COPACABANA"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. SAN JOSE DE CAQUETANIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9",
+    "direccion" : "VDA SAN JOSE DE CAQUETANI",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218753002907",
+    "telefono" : "3209088149",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO LA PROVIDENCIA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VEREDA LA PROVIDENCIA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000134",
+    "telefono" : "3116216969",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO LA JOSEFINA LOS LLANOS",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA LA JOSEFINA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000053",
+    "telefono" : "3123861652",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO ISCUAZAN",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA ISCUAZAN",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000207",
+    "telefono" : "3136395538",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAGRADO CORAZON DE JESUS EL JUNCAL",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA EL JUNCAL",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000231",
+    "telefono" : "3174860707",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO CULANTRO",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA EL CULANTRO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000126",
+    "telefono" : "3152907526",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "JUAN BAUTISTA MIGANI",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 14 KR 16 EQ",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001001598",
+    "telefono" : "4352395",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "JUAN XXIII",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 11 CL 9",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001000818",
+    "telefono" : "4356873",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "LA SALLE",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "KR 14 CL 25",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001000931",
+    "telefono" : "4352866 - 4360727",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "LOS ANDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 21 KR 3",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001001571",
+    "telefono" : "4349834 - 4349921",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "LOS PINOS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 1 A 30 21",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001001946",
+    "telefono" : "4370810",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "NORMAL SUPERIOR",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13,20,21,22,23,24,25,26,99",
+    "direccion" : "CL 1 KR 11",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001000940",
+    "telefono" : "4353082",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "SAGRADOS CORAZONES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21",
+    "direccion" : "KR 14 12 101",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001001580",
+    "telefono" : "4352382",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "SAN FRANCISCO DE ASIS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 13 12 83",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001000923",
+    "telefono" : "4352736",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "INSTITUTO TECNICO AGROINDUSTRIAL DE LA AMAZONIA",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "CL 18 11 08",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001002381",
+    "telefono" : "4341279",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "CENT PILOTO DE EDUCACION ESPECIAL",
+    "grados" : "0,1,2,3,5",
+    "direccion" : "CARRERA 14 NO. 11-97",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "183001000897",
+    "telefono" : "4352801",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "JOSE ACEVEDO Y GOMEZ",
+    "grados" : "21,22,23,24,25,26",
+    "direccion" : "IND KILOMETRO 3 VÍA NEIVA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "318001004158",
+    "telefono" : "4367543",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "AGROECOLOGICO AMAZONICO BUINAIMA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KILOMETRO 5 VIA A MORELIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "218001003017",
+    "telefono" : "3204775048",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "AVENIDA EL CARANO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "AVENIDA EL CARAÑO KILOMETRO 15 VIA A SUAZA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "218001002835",
+    "telefono" : "NO APLICA",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO EL CONTADERITO",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA EL CONTADERITO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000274",
+    "telefono" : "3166572256",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO CHORRERA NEGRA",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA CHORRERA NEGRA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000240",
+    "telefono" : "3167335150",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO ALDEA DE MARIA",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA ALDEA DE MARIA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000070",
+    "telefono" : "3172462449",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SANTO DOMINGO",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA SANTO DOMINGO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000045",
+    "telefono" : "3122274581",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO GRANADILLO DE LUNAS",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA GRANADILLO DE LUNAS",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000234",
+    "telefono" : "3146120308",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO EL CORTIJO",
+    "grados" : "0,1,2,3,4,5,22",
+    "direccion" : "VDA EL CORTIJO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000242",
+    "telefono" : "3213776811",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO BERMEJAL",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA BERMEJAL",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000251",
+    "telefono" : "3136429185",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA SAN ANTONIO DE PADUA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26",
+    "direccion" : "CORREG. SAN ANTONIO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000285",
+    "telefono" : "3174325481",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO ALTO MONSERRATE",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA ALTO MONSERRATE",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000293",
+    "telefono" : "3128283025",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO EL NARANJAL",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA EL NARANJAL",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000323",
+    "telefono" : "3136299594",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO PARAPETOS",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA PARAPETOS",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000340",
+    "telefono" : "3147692883",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO ORTEGA LOS CORRALES",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA ORTEGA LOS CORRALES",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000358",
+    "telefono" : "3113735112",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO FRANCO VILLA LA LOMA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA. FRANCO VILLA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000374",
+    "telefono" : "3217662420",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO LA VERANERA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA LA VERANERA",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000382",
+    "telefono" : "3206391061",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "52110",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SUMAPAZ",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA SUMAPAZ",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252110000391",
+    "telefono" : "3204643342",
+    "nombremunicipio" : "BUESACO"
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO INSTITUTO TECNICO  JUAN DEL CORRAL (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 63 79 87",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001009580",
+    "telefono" : "2409608 / 2503781 /",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "11001",
+    "nombreestablecimiento" : "COLEGIO CENTRO INTEGRAL  JOSE MARIA CORDOBA (IED)",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "DG 48 B SUR 24 B 73",
+    "codigodepartamento" : "11",
+    "nombredepartamento" : "BOGOTÁ, D.C.",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "BOGOTA",
+    "codigoestablecimiento" : "111001009652",
+    "telefono" : "7692587 -- 7698420 -- 7690294",
+    "nombremunicipio" : "BOGOTÁ, D.C."
+  }
+  , {
+    "codigomunicipio" : "81300",
+    "nombreestablecimiento" : "I.E. TIERRA SECA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,23,24,25,26",
+    "direccion" : "VDA TIERRA SECA",
+    "codigodepartamento" : "81",
+    "nombredepartamento" : "ARAUCA",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ARAUCA",
+    "codigoestablecimiento" : "281736001046",
+    "nombremunicipio" : "FORTUL"
+  }
+  , {
+    "codigomunicipio" : "5579",
+    "nombreestablecimiento" : "I. E. BOMBONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,99",
+    "direccion" : "CL 64 10 20",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105579000160",
+    "telefono" : "833 28 34",
+    "nombremunicipio" : "PUERTO BERRÍO"
+  }
+  , {
+    "codigomunicipio" : "5579",
+    "nombreestablecimiento" : "I. E. ALFONSO LOPEZ PUMAREJO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,99",
+    "direccion" : "KR 6 48 21",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105579000186",
+    "telefono" : "8332469",
+    "nombremunicipio" : "PUERTO BERRÍO"
+  }
+  , {
+    "codigomunicipio" : "5579",
+    "nombreestablecimiento" : "I. E. AMERICA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "KR 13 48 49",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105579000259",
+    "telefono" : "833 52 96",
+    "nombremunicipio" : "PUERTO BERRÍO"
+  }
+  , {
+    "codigomunicipio" : "5579",
+    "nombreestablecimiento" : "I. E. ANTONIO NARIÑO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 50 13 00",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105579000305",
+    "telefono" : "833 25 96",
+    "nombremunicipio" : "PUERTO BERRÍO"
+  }
+  , {
+    "codigomunicipio" : "18860",
+    "nombreestablecimiento" : "I.E.R. LA MUÑOZ",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,21,22,23,24,25,26",
+    "direccion" : "VDA  LA MUÑOZ",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283860000450",
+    "telefono" : "320 227 56 87",
+    "nombremunicipio" : "VALPARAÍSO"
+  }
+  , {
+    "codigomunicipio" : "18860",
+    "nombreestablecimiento" : "I.E.R. SANTIAGO DE LA SELVA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24",
+    "direccion" : "INSP SANTIAGO DE LA SE",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283860000506",
+    "telefono" : "3134485779 - 3123866441",
+    "nombremunicipio" : "VALPARAÍSO"
+  }
+  , {
+    "codigomunicipio" : "18860",
+    "nombreestablecimiento" : "I.E.R. PLAYA RICA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,26",
+    "direccion" : "VDA PLAYA RICA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283860000760",
+    "telefono" : "3133824978   3105720690",
+    "nombremunicipio" : "VALPARAÍSO"
+  }
+  , {
+    "codigomunicipio" : "5002",
+    "nombreestablecimiento" : "I. E.  MANUEL CANUTO RESTREPO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 51 56 139",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105002000055",
+    "telefono" : "864 73 86",
+    "nombremunicipio" : "ABEJORRAL"
+  }
+  , {
+    "codigomunicipio" : "18029",
+    "nombreestablecimiento" : "I.E ALBANIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,23,24,25,26,99",
+    "direccion" : "CL 5 KR 1",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183029000619",
+    "telefono" : "4303041 - 4303084 - 3123068546",
+    "nombremunicipio" : "ALBANIA"
+  }
+  , {
+    "codigomunicipio" : "18029",
+    "nombreestablecimiento" : "I.E EL DORADO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "INSP EL DORADO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218029000803",
+    "telefono" : "3187651894",
+    "nombremunicipio" : "ALBANIA"
+  }
+  , {
+    "codigomunicipio" : "18029",
+    "nombreestablecimiento" : "C.E LA CHORROSA",
+    "grados" : "0,1,2,3,4,5",
+    "direccion" : "VDA LA CHORROSA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283029000389",
+    "telefono" : "3138921923",
+    "nombremunicipio" : "ALBANIA"
+  }
+  , {
+    "codigomunicipio" : "18094",
+    "nombreestablecimiento" : "I.E GABRIELA MISTRAL",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,99",
+    "direccion" : "KR 2 A 3 87",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183094000171",
+    "telefono" : "4316050  3144015001",
+    "nombremunicipio" : "BELÉN DE LOS ANDAQUÍES"
+  }
+  , {
+    "codigomunicipio" : "18094",
+    "nombreestablecimiento" : "I.E AGROTECNICO MIXTO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 4 A KR 5 A",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183094001665",
+    "telefono" : "4316090 - 4316199 - 3204928177",
+    "nombremunicipio" : "BELÉN DE LOS ANDAQUÍES"
+  }
+  , {
+    "codigomunicipio" : "18094",
+    "nombreestablecimiento" : "I.E ALTO SARABANDO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24",
+    "direccion" : "VDA ALTO SARABANDO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283094000434",
+    "telefono" : "3143818337",
+    "nombremunicipio" : "BELÉN DE LOS ANDAQUÍES"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "PUERTO ARANGO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,25,26",
+    "direccion" : "CORREGIMIENTO VENECIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "283001000375",
+    "telefono" : "NO APLICA",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "18001",
+    "nombreestablecimiento" : "SAN ANTONIO DE ATENAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24,25,26",
+    "direccion" : "CORREGIMIENTO ORTEGUAZA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "FLORENCIA",
+    "codigoestablecimiento" : "283001000570",
+    "telefono" : "3115301613",
+    "nombremunicipio" : "FLORENCIA"
+  }
+  , {
+    "codigomunicipio" : "50689",
+    "nombreestablecimiento" : "JARDIN GATO SILVESTRE",
+    "grados" : "-3",
+    "direccion" : "IND CASA 19",
+    "codigodepartamento" : "50",
+    "nombredepartamento" : "META",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR",
+    "secretaria" : "META",
+    "codigoestablecimiento" : "550689000180",
+    "telefono" : "6488191",
+    "nombremunicipio" : "SAN MARTÍN"
+  }
+  , {
+    "codigomunicipio" : "50689",
+    "nombreestablecimiento" : "COLEGIO PEQUEÑOS GENIOS",
+    "grados" : "-2,-1,0,1,2,3,4,5",
+    "direccion" : "KR 7 1 B 42",
+    "codigodepartamento" : "50",
+    "nombredepartamento" : "META",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "META",
+    "codigoestablecimiento" : "350689001433",
+    "telefono" : "6484439",
+    "nombremunicipio" : "SAN MARTÍN"
+  }
+  , {
+    "codigomunicipio" : "76001",
+    "nombreestablecimiento" : "COLEGIO DEL SAGRADO CORAZÓN DE JESÚS-VALLE DEL LILI",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "IND KM 2 VIA A JAMUNDI",
+    "codigodepartamento" : "76",
+    "nombredepartamento" : "VALLE DEL CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CALI",
+    "codigoestablecimiento" : "376001013246",
+    "telefono" : "PBX 5553096",
+    "nombremunicipio" : "CALI"
+  }
+  , {
+    "codigomunicipio" : "76001",
+    "nombreestablecimiento" : "COLEGIO MAYOR SAN ANTONIO DE PADUA ",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "IND CL 22 145-71 LA VIGA PANCE",
+    "codigodepartamento" : "76",
+    "nombredepartamento" : "VALLE DEL CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CALI",
+    "codigoestablecimiento" : "376001041018",
+    "telefono" : "5557518 5557625 557629",
+    "nombremunicipio" : "CALI"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAN ANDRES",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA SAN ANDRES",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000282",
+    "telefono" : "3166184597",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA COLEGIO DEPTAL SAN CARLOS",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,25,26",
+    "direccion" : "IND BARRIO OBRERO",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "152210000261",
+    "telefono" : "3206776236 - 3104337599",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SAN JOSE DE QUISNAMUEZ",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "SAN JOSE DE QUISNAMUEZ",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000151",
+    "telefono" : "3155234485",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO SIMON BOLIVAR",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA SIMON BOLIVAR",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000258",
+    "telefono" : "3136386298",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "52210",
+    "nombreestablecimiento" : "CENTRO EDUCATIVO YAEZ",
+    "grados" : "0,1,2,3,4,5,21",
+    "direccion" : "VEREDA YAEZ",
+    "codigodepartamento" : "52",
+    "nombredepartamento" : "NARIÑO",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA PRIMARIA",
+    "secretaria" : "NARIÑO",
+    "codigoestablecimiento" : "252210000061",
+    "telefono" : "3177796560",
+    "nombremunicipio" : "CONTADERO"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. LA SAMARIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,20,21,22,23,24,99",
+    "direccion" : "VDA LA SAMARIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218753002931",
+    "telefono" : "3104778800",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. LA INMACULADA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,99",
+    "direccion" : "INSP GUACAMAYAS",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218753003822",
+    "telefono" : "3118092484-4347099",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. ARENOSO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,20,21,22,23,24",
+    "direccion" : "VDA ARENOSO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753000480",
+    "telefono" : "3132525265",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "CRISTO REY",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "CL 12 3 A 50",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001000559",
+    "telefono" : "8221046-206533",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. BOCANA POSETAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9",
+    "direccion" : "VDA BOCANAS POSETAS",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753000773",
+    "telefono" : "3107545321",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "NORMAL SUPERIOR DE POPAYAN",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,12,13,20,21,22,99",
+    "direccion" : "SALIDA AL SUR",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001000699",
+    "telefono" : "8388905-8221490-8221",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. LOS ANDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24,99",
+    "direccion" : "VDA LOS ANDES",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753000919",
+    "telefono" : "3134964348-3115886855",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "DON BOSCO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20",
+    "direccion" : "KR 9 13 45",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001001113",
+    "telefono" : "8222056-8222760",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "INEM FCO JOSE DE CALDAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23",
+    "direccion" : "CL 7 11 21",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001001199",
+    "telefono" : "8203651- 8203653 - 8",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "SAGRADO CORAZ¿N DE JES¿S",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 9 25 36",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001001474",
+    "telefono" : "8232593",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. CRISTALINA DEL LOSADA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24",
+    "direccion" : "VDA CRISTALINA DEL LOZADA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753001125",
+    "telefono" : "3134303648",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R. GUAYABAL",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24",
+    "direccion" : "VDA GUAYABAL",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753001541",
+    "telefono" : "3118055201",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "18753",
+    "nombreestablecimiento" : "I.E.R GUILLERMO RIOS MEJIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25",
+    "direccion" : "INSP  BALSILLAS",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283753001613",
+    "telefono" : "3112027377",
+    "nombremunicipio" : "SAN VICENTE DEL CAGUÁN"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E CAMPO ELIAS MARULANDA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26",
+    "direccion" : "CL 8 7 30",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "183765000928",
+    "telefono" : "3132537784",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. LA CABAÑITA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24",
+    "direccion" : "VDA  LA INDEPENDENCIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218756001332",
+    "telefono" : "3138856100",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "C.E. EL DANUBIO",
+    "grados" : "0,1,2,3,4,5,22,23,24,25,26",
+    "direccion" : "VDA  EL DANUBIO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218765000098",
+    "telefono" : "3132537784",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. PUERTO TEJADA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23,24",
+    "direccion" : "VDA PUERTO TEJADA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218765000217",
+    "telefono" : "3143082438",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. LAS MERCEDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23",
+    "direccion" : "VDA LAS MERCEDES",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218765001191",
+    "telefono" : "3105605587",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. INDIGENA COEMANI FORTUNATO REALLY",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25",
+    "direccion" : "INSP CUEMANI",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218765001299",
+    "telefono" : "3213916465",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. MONONGUETE",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "INSP MONONGUETE",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283765000086",
+    "telefono" : "3103104407",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "C.E. PEÑAS BLANCAS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22",
+    "direccion" : "VDA PEÑAS BLANCAS",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283765000213",
+    "telefono" : "3107544453",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18756",
+    "nombreestablecimiento" : "I.E.R. CAMPOALEGRE",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21",
+    "direccion" : "INSP EL DANUBIO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283765000329",
+    "telefono" : "3102308582",
+    "nombremunicipio" : "SOLANO"
+  }
+  , {
+    "codigomunicipio" : "18785",
+    "nombreestablecimiento" : "I.E.R. CHONTILLOSA MEDIO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22",
+    "direccion" : "VDA CHONTILLOSA MEDIA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218860000364",
+    "telefono" : "3204990869 - 3212186678",
+    "nombremunicipio" : "SOLITA"
+  }
+  , {
+    "codigomunicipio" : "18785",
+    "nombreestablecimiento" : "I.E INTERNADO RURAL SOLITA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 4 5 32",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283765000701",
+    "telefono" : "3133827314",
+    "nombremunicipio" : "SOLITA"
+  }
+  , {
+    "codigomunicipio" : "18785",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA RURAL JOSE CELESTINO MUTIS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,21,22,23",
+    "direccion" : "VDA AGUA BLANCA",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "218860001301",
+    "telefono" : "3133698303",
+    "nombremunicipio" : "SOLITA"
+  }
+  , {
+    "codigomunicipio" : "18785",
+    "nombreestablecimiento" : "I.E.R. CAMPOLEJANO",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23",
+    "direccion" : "VDA CAMPOLEJANO",
+    "codigodepartamento" : "18",
+    "nombredepartamento" : "CAQUETÁ",
+    "zona" : "RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAQUETA",
+    "codigoestablecimiento" : "283860001073",
+    "telefono" : "3124309903",
+    "nombremunicipio" : "SOLITA"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "LA MILAGROSA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 10 67 116",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001001946",
+    "telefono" : "8367952",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "LOS COMUNEROS",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26",
+    "direccion" : "KR 7 21 04",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001002187",
+    "telefono" : "8244155",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "19001",
+    "nombreestablecimiento" : "ANTONIO GARCIA PAREDES",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,20,21,22,23,24",
+    "direccion" : "CL 17 NO. 16-0",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "POPAYAN",
+    "codigoestablecimiento" : "119001002195",
+    "telefono" : "8240443",
+    "nombremunicipio" : "POPAYÁN"
+  }
+  , {
+    "codigomunicipio" : "8001",
+    "nombreestablecimiento" : "INSTITUCION EDUCATIVA DISTRITAL LA UNION ",
+    "grados" : "-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 35 B 14 10",
+    "codigodepartamento" : "8",
+    "nombredepartamento" : "ATLÁNTICO",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,BÁSICA SECUNDARIA,MEDIA,BÁSICA PRIMARIA",
+    "secretaria" : "BARRANQUILLA",
+    "codigoestablecimiento" : "108001003769",
+    "telefono" : "3620913 - 3158836030",
+    "nombremunicipio" : "BARRANQUILLA"
+  }
+  , {
+    "codigomunicipio" : "19807",
+    "nombreestablecimiento" : "FUNDACION GIMNASIO MODERNO DEL CAUCA - SEDE ADMINISTRATIVA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26",
+    "direccion" : "CALLE 17 BARRIO SAN CAYETANO",
+    "codigodepartamento" : "19",
+    "nombredepartamento" : "CAUCA",
+    "zona" : "URBANA,RURAL",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "CAUCA",
+    "codigoestablecimiento" : "519807000007",
+    "telefono" : "8234019 ext 108 - 3176451663",
+    "nombremunicipio" : "TIMBÍO"
+  }
+  , {
+    "codigomunicipio" : "5129",
+    "nombreestablecimiento" : "I. E. GABRIEL ECHAVARRIA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,15",
+    "direccion" : "KR 50 108 S 05",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105129000089",
+    "telefono" : "278 14 34",
+    "nombremunicipio" : "CALDAS"
+  }
+  , {
+    "codigomunicipio" : "5129",
+    "nombreestablecimiento" : "I. E. MARIA AUXILIADORA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21",
+    "direccion" : "KR 49 131 S 23",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "RURAL,URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105129000208",
+    "telefono" : "278 07 21",
+    "nombremunicipio" : "CALDAS"
+  }
+  , {
+    "codigomunicipio" : "5129",
+    "nombreestablecimiento" : "I. E. JOSE MARIA BERNAL",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,99",
+    "direccion" : "CL 127 S 54 51",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105129000216",
+    "telefono" : "2780041 y  2781005",
+    "nombremunicipio" : "CALDAS"
+  }
+  , {
+    "codigomunicipio" : "5129",
+    "nombreestablecimiento" : "I. E.  PEDRO LUIS ALVAREZ CORREA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "CL 129 S 48 70",
+    "codigodepartamento" : "5",
+    "nombredepartamento" : "ANTIOQUIA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "ANTIOQUIA",
+    "codigoestablecimiento" : "105129000534",
+    "telefono" : "2785482 - 3388970",
+    "nombremunicipio" : "CALDAS"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE JORGE ELIECER GAITAN",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+    "direccion" : "KR 7 1 E 31",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000859",
+    "telefono" : "3310530 - 3108253823",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE AQUILINO BEDOYA",
+    "grados" : "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+    "direccion" : "AV 30 DE AGOSTO 62 59",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000875",
+    "telefono" : "3113154881",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+  , {
+    "codigomunicipio" : "66001",
+    "nombreestablecimiento" : "IE DEOGRACIAS CARDONA",
+    "grados" : "0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,31,32",
+    "direccion" : "VIA EL POBLADO",
+    "codigodepartamento" : "66",
+    "nombredepartamento" : "RISARALDA",
+    "zona" : "URBANA",
+    "niveles" : "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA",
+    "secretaria" : "PEREIRA",
+    "codigoestablecimiento" : "166001000891",
+    "telefono" : "3116092016",
+    "nombremunicipio" : "PEREIRA"
+  }
+ 
+   ]

@@ -21,7 +21,9 @@ constructor(){
         ubicacion: 'Eureka! Technology',
         temperatura: 'temperatura-IrrigaTIC',
         humedad: 'humedad-IrrigaTIC',
-        fertilizante: 'fertilizante-IrrigaTIC'
+        fertilizante: 'fertilizante-IrrigaTIC',
+        Caudal: 'Caudal - Eureka! Technology',
+        LitrosAgua: 'Litros Agua -- Eureka! Technology'
     }
 }
 
@@ -51,6 +53,20 @@ componentWillMount(){
             fertilizante: snapshot.val()
         })
     })
+
+    const cauRef = firebase.database().ref().child('object').child('Caudal')
+    cauRef.on('value', (snapshot) =>{
+        this.setState({
+            Caudal: snapshot.val()
+        })
+    })
+
+    const LARef = firebase.database().ref().child('object').child('Litros Agua')
+    LARef.on('value', (snapshot) =>{
+        this.setState({
+            LitrosAgua: snapshot.val()
+        })
+    })
 }
 
     render(){
@@ -60,7 +76,9 @@ componentWillMount(){
     <h1>Temperatura --> 🔥 {this.state.temperatura} 🔥</h1>
     <h1>Humedad -->🌊 {this.state.humedad} 🌊</h1>
     <h1>Fertilizante -->🌱 {this.state.fertilizante} 🌱</h1>
-        </div>
+    <h1>Caudal -->🌊 {this.state.Caudal} L/min 🌊</h1>
+    <h1>Litros de Agua -->🌱 {this.state.LitrosAgua} Litros🌱</h1>
+    </div>
     );    
 }
 }

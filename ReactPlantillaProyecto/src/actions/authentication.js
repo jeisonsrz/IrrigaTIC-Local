@@ -4,8 +4,8 @@ import setAuthToken from '../setAuthToken';
 import jwt_decode from 'jwt-decode';
 
 export const registerUser = (user, history) => dispatch => {
-    axios.post('http://localhost:5500/api/users/register', user)
-            .then(res => history.push('/login'))
+    axios.post('http://irrigaticeureka.eastus.cloudapp.azure.com/api/users/register', user)
+    .then(res => history.push('/login'))
             .catch(err => {
                 dispatch({
                     type: GET_ERRORS,
@@ -15,8 +15,8 @@ export const registerUser = (user, history) => dispatch => {
 }
 
 export const loginUser = (user) => dispatch => {
-    axios.post('http://localhost:5500/api/users/login', user)
-            .then(res => {
+    axios.post('http://irrigaticeureka.eastus.cloudapp.azure.com/api/users/login', user)
+    .then(res => {
                 const { token } = res.data;
                 localStorage.setItem('jwtToken', token);
                 setAuthToken(token);

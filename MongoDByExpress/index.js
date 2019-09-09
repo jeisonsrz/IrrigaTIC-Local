@@ -9,10 +9,19 @@ const app = express();
 
 var cors = require('express-cors')
 app.use(cors({
-   allowedOrigins: [
-       'http://localhost:3000',
+ allowedOrigins: [
+      'http://localhost:3000',
    ]
-}))
+}));
+
+app.use((req,res,next) =>{
+res.header("Access-Control-Allow-Origin","*");
+res.header(
+    "Access-Control-Alow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+);
+next();
+});
 
 app.use(bodyParser.urlencoded({extended: true}));
 

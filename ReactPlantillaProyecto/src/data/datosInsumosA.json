@@ -1,0 +1,223 @@
+[{"clase":"VACUNA","descripci_n_producto":"AFTOGAN 2 ML","especie":"Bovinos","presentaci_n":"Frascos por 10, 25 y 50 dosis."}
+  ,{"clase":"VACUNA","descripci_n_producto":"AFTOGAN RABIA 2ML","especie":"Bovinos","presentaci_n":"Frascos por 10, 25 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"ESTOMATITIS","especie":"Bovinos","presentaci_n":"Frascos por 10, 20 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"VACUNA TRIPLE HA","especie":"Bovinos","presentaci_n":"Frascos por 20 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"VACUNA TRIPLE HA","especie":"Ovinos","presentaci_n":"Frascos por 20 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"HEXAGAN","especie":"Bovinos","presentaci_n":"Frascos por 20 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"CEPA 19","especie":"Terneras","presentaci_n":"Frascos por 5 y 10 dosis cada una con su diluyente"}
+  ,{"clase":"VACUNA","descripci_n_producto":"BLINDAGAN","especie":"Bovinos","presentaci_n":"Frascos por 20 y 50 dosis."}
+  ,{"clase":"VACUNA","descripci_n_producto":"RAYOVACUNA","especie":"Bovinos","presentaci_n":"Frascos por 25 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"RAYOVACUNA","especie":"Equinos","presentaci_n":"Frascos por 25 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"RAYOVACUNA","especie":"Ovicaprinos","presentaci_n":"Frascos por 25 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"RAYOVACUNA","especie":"Porcinos","presentaci_n":"Frascos por 25 y 50 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"STARTVAC","especie":"Bovinos","presentaci_n":"Frascos por 1, 5 y 25 dosis"}
+  ,{"clase":"VACUNA","descripci_n_producto":"VACUNA ENCEFALITIS EQUINA","especie":"Equinos","presentaci_n":"Frascos por 10 dosis con su diluyente"}
+  ,{"clase":"VACUNA","descripci_n_producto":"RABIGAN","especie":"Bovinos","presentaci_n":"Frascos por 10 y 50 dosis"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"CEFTIOFUR SODICO","especie":"Bovinos","presentaci_n":"Frascos por 1 g y 4 g acompañados por diluyente estéril"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"CEFTIOFUR SODICO","especie":"Equinos","presentaci_n":"Frascos por 1 g y 4 g acompañados por diluyente estéril"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"CEFTIOFUR SODICO","especie":"Porcinos","presentaci_n":"Frascos por 1 g y 4 g acompañados por diluyente estéril"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"CEFTIOFUR SODICO","especie":"Caninos","presentaci_n":"Frascos por 1 g y 4 g acompañados por diluyente estéril"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DORAGAN","especie":"Bovinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DORAGAN","especie":"Ovinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DORAGAN","especie":"Porcinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DIAMINAVEC NF","especie":"Bovinos","presentaci_n":"Frascos por 100 y 250 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DIAMINAVEC NF","especie":"Equinos","presentaci_n":"Frascos por 100 y 250 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DIAMINAVEC NF","especie":"Ovicaprinos","presentaci_n":"Frascos por 100 y 250 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"DIAMINAVEC NF","especie":"Caninos","presentaci_n":"Frascos por 100 y 250 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Bovinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Equinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Porcinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":" Ovinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Caprinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Caninos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ENROFLOXACINA 10%","especie":"Felinos","presentaci_n":"Frascos de vidrio ámbar tipo II por: 50 y 100 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"LONGICILINA","especie":"Bovinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"LONGICILINA","especie":"Porcinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"LONGICILINA","especie":"Ovinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"LONGICILINA","especie":"Caprinos","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"LONGICILINA","especie":"Aves","presentaci_n":"Frascos por 500 ml"}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"KENOGAN","especie":"Bovinos","presentaci_n":"Frasco por 10, 50 y 100 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"KENOGAN","especie":"Equinos","presentaci_n":"Frasco por 10, 50 y 100 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"KENOGAN","especie":"Porcinos","presentaci_n":"Frasco por 10, 50 y 100 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"KENOGAN","especie":"Caninos","presentaci_n":"Frasco por 10, 50 y 100 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"KENOGAN","especie":"Felinos","presentaci_n":"Frasco por 10, 50 y 100 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Bovinos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Equinos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Porcinos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Ovinos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Caninos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Felinos","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"OXITETRACICLINA","especie":"Aves","presentaci_n":"Oxitetraciclina de 50 mg por ml en frascos por 500 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TILOSINA 25 ML","especie":"Bovinos","presentaci_n":"Frascos por 25, 100 y 250 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TILOSINA 25 ML","especie":"Porcinos","presentaci_n":"Frascos por 25, 100 y 250 ml"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Bovinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Equinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Porcinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Ovinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Caprinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Caninos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"TRIPEN L.A.","especie":"Pequeños Felinos","presentaci_n":"Frasco individual de 3'000.000, 6'000.000 y 9'000.000 de U.I. de Penicilinas con su diluyente."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ESTREPTOVEC","especie":"Bovinos","presentaci_n":"Frasco por 5,0 g con su diluyente"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ESTREPTOVEC","especie":"Porcinos","presentaci_n":"Frasco por 5,0 g con su diluyente"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ESTREPTOVEC","especie":"Ovinos","presentaci_n":"Frasco por 5,0 g con su diluyente"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ESTREPTOVEC","especie":"Caprinos","presentaci_n":"Frasco por 5,0 g con su diluyente"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"ESTREPTOVEC","especie":"Aves","presentaci_n":"Frasco por 5,0 g con su diluyente"}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Bovinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Equinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Porcinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Ovicaprinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Caninos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Conejos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFAMETHAZINA","especie":"Aves","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFARRINOL","especie":"Terneros","presentaci_n":"Caja de 20 sobres por 30 g."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFARRINOL","especie":"Potros","presentaci_n":"Caja de 20 sobres por 30 g."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFARRINOL","especie":"Borregos","presentaci_n":"Caja de 20 sobres por 30 g."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFARRINOL","especie":"Lechones","presentaci_n":"Caja de 20 sobres por 30 g."}
+  ,{"clase":"Antibióticos","descripci_n_producto":"SULFARRINOL","especie":"Cachorros","presentaci_n":"Caja de 20 sobres por 30 g."}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Equinos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Bovinos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Porcinos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Caninos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Ovinos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"SANIVEC 4 L","especie":"Felinos","presentaci_n":"Garrafas plásticas por 4 litros"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"LOMBIFAR","especie":"Bovinos","presentaci_n":"Frasco PEAD de 120 mL; garrafa en PEAD por 500, 1000 y 2000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"LOMBIFAR","especie":"Porcinos","presentaci_n":"Frasco PEAD de 120 mL; garrafa en PEAD por 500, 1000 y 2000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"LOMBIFAR","especie":"Ovinos","presentaci_n":"Frasco PEAD de 120 mL; garrafa en PEAD por 500, 1000 y 2000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"LOMBIFAR","especie":"Caprinos","presentaci_n":"Frasco PEAD de 120 mL; garrafa en PEAD por 500, 1000 y 2000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"TRATORIL 120ML","especie":"Bovinos","presentaci_n":"Frascos por 120, 240, 500 y 1000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"TRATORIL 120ML","especie":"Porcinos","presentaci_n":"Frascos por 120, 240, 500 y 1000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"TRATORIL 120ML","especie":"Caninos","presentaci_n":"Frascos por 120, 240, 500 y 1000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"TRATORIL 120ML","especie":"Felinos","presentaci_n":"Frascos por 120, 240, 500 y 1000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"FENBENDAZOL 25%","especie":"Bovinos","presentaci_n":"Frascos por 120 y 500 ml. Garrafas por 2000 ml. Jeringas por 12 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"FENBENDAZOL 25%","especie":"Equinos","presentaci_n":"Frascos por 120 y 500 ml. Garrafas por 2000 ml. Jeringas por 12 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"FENBENDAZOL 25%","especie":"Porcinos","presentaci_n":"Frascos por 120 y 500 ml. Garrafas por 2000 ml. Jeringas por 12 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"FENBENDAZOL 25%","especie":"Ovinos","presentaci_n":"Frascos por 120 y 500 ml. Garrafas por 2000 ml. Jeringas por 12 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"FENBENDAZOL 25%","especie":"Caprinos","presentaci_n":"Frascos por 120 y 500 ml. Garrafas por 2000 ml. Jeringas por 12 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"IVERMECTINA 3.15%","especie":"Bovinos","presentaci_n":"Frascos por 50, 250, 500 y 1000 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"IVERQUINOS 6.42G","especie":"Equinos","presentaci_n":"Jeringa plástica por 6,42 g"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"IVERMECTINA 1%","especie":"Bovinos","presentaci_n":"Frascos por 50, 250 y 500 ml"}
+  ,{"clase":"Antiparasitarios","descripci_n_producto":"IVERMECTINA 1%","especie":"Porcinos","presentaci_n":"Frascos por 50, 250 y 500 ml"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"CURAVECOL NF 354 ML","especie":"Bovinos","presentaci_n":"Aerosol en tarro (envase de hojalata) por 354 ml"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"CURAVECOL NF 354 ML","especie":"Equinos","presentaci_n":"Aerosol en tarro (envase de hojalata) por 354 ml"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"CURAVECOL NF 354 ML","especie":"Porcinos","presentaci_n":"Aerosol en tarro (envase de hojalata) por 354 ml"}
+  ,{"clase":"Desinfectantes","descripci_n_producto":"CURAVECOL NF 354 ML","especie":"Ovinos","presentaci_n":"Aerosol en tarro (envase de hojalata) por 354 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HIERRO DEXTRAN + B12","especie":"Lechones","presentaci_n":"Frascos por 10, 50 y 100 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HIERRO DEXTRAN + B13","especie":"Terneros","presentaci_n":"Frascos por 10, 50 y 100 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"TRIVEC","especie":"Bovinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"TRIVEC","especie":"Ovinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"TRIVEC","especie":"Caprinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DICOGAN","especie":"Bovinos","presentaci_n":"Frasco por 10, 50 y 100 ml"}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DICOGAN","especie":"Equinos","presentaci_n":"Frasco por 10, 50 y 100 ml"}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DICOGAN","especie":"Ovinos","presentaci_n":"Frasco por 10, 50 y 100 ml"}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DICOGAN","especie":"Caprinos","presentaci_n":"Frasco por 10, 50 y 100 ml"}
+  ,{"clase":"Hormonales","descripci_n_producto":"OXITOCINA SINTETICA","especie":"Bovinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"OXITOCINA SINTETICA","especie":"Equinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"OXITOCINA SINTETICA","especie":"Porcinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"OXITOCINA SINTETICA","especie":"Caninos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"OXITOCINA SINTETICA","especie":"Felinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"BOLDENONA","especie":"Bovinos","presentaci_n":"Frasco de 250 ml"}
+  ,{"clase":"Hormonales","descripci_n_producto":"BOLDENONA","especie":"Equinos","presentaci_n":"Frasco de 250 ml"}
+  ,{"clase":"Hormonales","descripci_n_producto":"BOLDENONA","especie":"Porcinos","presentaci_n":"Frasco de 250 ml"}
+  ,{"clase":"Hormonales","descripci_n_producto":"BOLDENONA","especie":"Caninos","presentaci_n":"Frasco de 250 ml"}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Bovinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Equinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Porcinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Ovinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Caninos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Hormonales","descripci_n_producto":"GESTAVEC","especie":"Pequeños Felinos","presentaci_n":"Frascos por 10 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HEMOVEC NF","especie":"Bovinos","presentaci_n":"Frascos por 100, 250 y 500 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HEMOVEC NF","especie":"Equinos","presentaci_n":"Frascos por 100, 250 y 500 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HEMOVEC NF","especie":"Porcinos","presentaci_n":"Frascos por 100, 250 y 500 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HEMOVEC NF","especie":"Ovinos","presentaci_n":"Frascos por 100, 250 y 500 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"HEMOVEC NF","especie":"Caninos","presentaci_n":"Frascos por 100, 250 y 500 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Bovinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Equinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Porcinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Caninos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Felinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAMINA K","especie":"Aves","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAVECOL-A","especie":"Bovinos","presentaci_n":"Frascos por 250 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAVECOL-A","especie":"Equinos","presentaci_n":"Frascos por 250 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAVECOL-A","especie":"Porcinos","presentaci_n":"Frascos por 250 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAVECOL-A","especie":"Caprinos","presentaci_n":"Frascos por 250 ml"}
+  ,{"clase":"Vitaminas","descripci_n_producto":"VITAVECOL-A","especie":"Ovinos","presentaci_n":"Frascos por 250 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"CALMADEX NF","especie":"Bovinos","presentaci_n":"Frasco por 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"CALMADEX NF","especie":"Equinos","presentaci_n":"Frasco por 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"CALMADEX NF","especie":"Porcinos","presentaci_n":"Frasco por 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"CALMADEX NF","especie":"Ovinos","presentaci_n":"Frasco por 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"CALMADEX NF","especie":"Caprinos","presentaci_n":"Frasco por 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"GLUCONATO CALCIO","especie":"Bovinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"GLUCONATO CALCIO","especie":"Equinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"GLUCONATO CALCIO","especie":"Porcinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"GLUCONATO CALCIO","especie":"Ovinos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"GLUCONATO CALCIO","especie":"Caninos","presentaci_n":"Frascos por 250 y 500 ml."}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"ENERVEC","especie":"Bovinos","presentaci_n":"Frasco por 100, 250 y 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"ENERVEC","especie":"Equinos","presentaci_n":"Frasco por 100, 250 y 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"ENERVEC","especie":"Porcinos","presentaci_n":"Frasco por 100, 250 y 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"ENERVEC","especie":"Ovicaprinos","presentaci_n":"Frasco por 100, 250 y 500 ml"}
+  ,{"clase":"Tónicos Reconstituyentes","descripci_n_producto":"ENERVEC","especie":"Caninos","presentaci_n":"Frasco por 100, 250 y 500 ml"}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DIPIRINA","especie":"Bovinos","presentaci_n":"Frascos por 20 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DIPIRINA","especie":"Equinos","presentaci_n":"Frascos por 20 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DIPIRINA","especie":"Porcinos","presentaci_n":"Frascos por 20 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"DIPIRINA","especie":"Caninos","presentaci_n":"Frascos por 20 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"FLUNIXINA","especie":"Bovinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"FLUNIXINA","especie":"Equinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Antiinflamatorios - Analgésicos Antipiréticos","descripci_n_producto":"FLUNIXINA","especie":"Porcinos","presentaci_n":"Frascos por 10 y 50 ml."}
+  ,{"clase":"Otros","descripci_n_producto":"ALERVEC","especie":"Bovinos","presentaci_n":"Frascos por 10 y 50 ml"}
+  ,{"clase":"Otros","descripci_n_producto":"ALERVEC","especie":"Equinos","presentaci_n":"Frascos por 10 y 50 ml"}
+  ,{"clase":"Otros","descripci_n_producto":"ALERVEC","especie":"Caninos","presentaci_n":"Frascos por 10 y 50 ml"}
+  ,{"clase":"Otros","descripci_n_producto":"ALERVEC","especie":"Felinos","presentaci_n":"Frascos por 10 y 50 ml"}
+  ,{"clase":"Otros","descripci_n_producto":"SULFALLIDOL","especie":"Bovinos","presentaci_n":"Envase de plástico por 100 g"}
+  ,{"clase":"Otros","descripci_n_producto":"SULFALLIDOL","especie":"Equinos","presentaci_n":"Envase de plástico por 100 g"}
+  ,{"clase":"Otros","descripci_n_producto":"SULFALLIDOL","especie":"Porcinos","presentaci_n":"Envase de plástico por 100 g"}
+  ,{"clase":"Otros","descripci_n_producto":"SULFALLIDOL","especie":"Ovicaprinos","presentaci_n":"Envase de plástico por 100 g"}
+  ,{"clase":"Otros","descripci_n_producto":"SULFALLIDOL","especie":"Caninos","presentaci_n":"Envase de plástico por 100 g"}
+  ,{"clase":"Otros","descripci_n_producto":"AFLOVET","especie":"Bovinos","presentaci_n":"Envase plástico por 400 g."}
+  ,{"clase":"Otros","descripci_n_producto":"AFLOVET","especie":"Equinos","presentaci_n":"Envase plástico por 400 g."}
+  ,{"clase":"Otros","descripci_n_producto":"AFLOVET","especie":"Porcinos","presentaci_n":"Envase plástico por 400 g."}
+  ,{"clase":"Otros","descripci_n_producto":"AFLOVET","especie":"Ovicaprinos","presentaci_n":"Envase plástico por 400 g."}
+  ,{"clase":"Otros","descripci_n_producto":"AFLOVET","especie":"Caninos","presentaci_n":"Envase plástico por 400 g."}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"ASBRIP PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"ASBRIP PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"ASBRIP PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"DIAMEL PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"DIAMEL PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"DIAMEL PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"FOLREX PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"FOLREX PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"FOLREX PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"KALSIS PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"KALSIS PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"KALSIS PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"OCOXIN PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"OCOXIN PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"OCOXIN PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"RENALOF PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"RENALOF PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"RENALOF PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"VIUSID PETS","especie":"Caninos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"VIUSID PETS","especie":"Felinos","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"VIUSID PETS","especie":"Aves ornamentales (canarios, pericos, loros)","presentaci_n":"Solución Oral Envase por 150 ml"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"ARTHROPLEX","especie":"Caninos","presentaci_n":"Frasco por 180 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"ARTHROPLEX","especie":"Felinos","presentaci_n":"Frasco por 180 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"BIO-CARDIO","especie":"Caninos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"BIO-CARDIO","especie":"Felinos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"CANINE GERIATRICS BASCI.","especie":"Caninos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"CURCUVETSA","especie":"Caninos","presentaci_n":"Frasco por 90 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"GASTRIPLEX","especie":"Caninos","presentaci_n":"Frasco por 180 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"GASTRIPLEX","especie":"Felinos","presentaci_n":"Frasco por 180 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"GASTRIPLEX","especie":"Equinos","presentaci_n":"Frasco por 180 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"HEPAGEN-C","especie":"Caninos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"IMMUGEN","especie":"Caninos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"IMMUGEN","especie":"Felinos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"SMALL ANIMAL ANTIOXIDAN","especie":"Caninos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Suplementos Naturales","descripci_n_producto":"SMALL ANIMAL ANTIOXIDAN","especie":"Felinos","presentaci_n":"Frasco por 120 cápsulas"}
+  ,{"clase":"Vacuna","descripci_n_producto":"HIPRADOG-PV","especie":"Caninos","presentaci_n":"Envase 1 dosis"}
+  ,{"clase":"Vacuna","descripci_n_producto":"HIPRADOG-DP","especie":"Caninos","presentaci_n":"Envase 1 dosis (fracción liofilizada + fracción líquida)"}
+  ,{"clase":"Vacuna","descripci_n_producto":"HIPRADOG-7","especie":"Caninos","presentaci_n":"Envase 1 dosis (fracción liofilizada + fracción líquida)"}
+  ,{"clase":"Vacuna","descripci_n_producto":"RABICAN","especie":"Caninos","presentaci_n":"Frascos por 10 dosis"}
+  ,{"clase":"Vacuna","descripci_n_producto":"RABICAN","especie":"Felinos","presentaci_n":"Frascos por 10 dosis"}
+  ,{"clase":"Antiparasitarios interno","descripci_n_producto":"IVERCAN","especie":"Caninos","presentaci_n":"Jeringas por 1ml- 2ml -5ml - 10 ml"}
+  ,{"clase":"Pulguicida, garrapaticida, piojicida","descripci_n_producto":"NOPICAN","especie":"Caninos","presentaci_n":"Frascos por 0,67mL - 1,34mL - 2,68mL- 4,02 mL"}
+  ,{"clase":"Pulguicida, garrapaticida, piojicida","descripci_n_producto":"NOPICAN","especie":"Felinos","presentaci_n":"Frascos por 0,5 mL"}
+  ,{"clase":"Pulguicida, mosquicida","descripci_n_producto":"PULCAN","especie":"Caninos","presentaci_n":"Frascos por 0,4 mL- 1mL - 2,5mL- 4 mL"}]

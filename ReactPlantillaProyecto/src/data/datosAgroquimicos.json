@@ -1,0 +1,72 @@
+[{"grupo":"HERBICIDAS","ingrediente_activo":"ATRAZINA: 890 gr/Kg","nombre_del_producto":"ATRAZINA","presentaci_n":"Bolsas de 1 y 10 kg","tipo_de_cultivo":"MAIZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"ATRAZINA: 890 gr/Kg","nombre_del_producto":"ATRAZINA","presentaci_n":"Bolsas de 1 y 10 kg","tipo_de_cultivo":"SORGO"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN 200 gr/L + DIFENOCONAZOL 125 gr/L","nombre_del_producto":"Azoxytop Vecol 325 SC","presentaci_n":"Envases de 250 mL, 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN 200 gr/L + DIFENOCONAZOL 125 gr/L","nombre_del_producto":"Azoxytop Vecol 325 SC","presentaci_n":"Envases de 250 mL, 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN 200 gr/L + DIFENOCONAZOL 125 gr/L","nombre_del_producto":"Azoxytop Vecol 325 SC","presentaci_n":"Envases de 250 mL, 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"BENZOATO DE EMAMECTINA 50 g/Kg","nombre_del_producto":"BENZOMECTINA","presentaci_n":"Frascos por 100 y 500 g y 1 y 10 Kilos","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"BENZOATO DE EMAMECTINA 50 g/Kg","nombre_del_producto":"BENZOMECTINA","presentaci_n":"Frascos por 100 y 500 g y 1 y 10 Kilos","tipo_de_cultivo":"MAIZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"BYSPIRIBAC SODIUM: 400 gr/ L","nombre_del_producto":"BYSPIRIBAC","presentaci_n":"Envases de 250 y 500 mL","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"CARBENDAZIM 500 gr/L","nombre_del_producto":"CARBENDAZIM","presentaci_n":"Envases de 100 ml, 1, 4  y 20 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"CARBENDAZIM 500 gr/L","nombre_del_producto":"CARBENDAZIM","presentaci_n":"Envases de 100 ml, 1, 4  y 20 litros","tipo_de_cultivo":"ROSAS"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CLOMAZONE 480 gr/L","nombre_del_producto":"CLOMAZONE","presentaci_n":"Frascos de 1 y 10 Litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CHLORIMURON 250 gr/Kg","nombre_del_producto":"CLORIMURON","presentaci_n":"Frascos por 500g, 5 y 10 Kilos","tipo_de_cultivo":"SOYA"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL: 250 gr/ L","nombre_del_producto":"Difenoconazol Vecol 250 EC","presentaci_n":"Envases de 100 ml y 1 litro","tipo_de_cultivo":"ROSAS"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL: 250 gr/ L","nombre_del_producto":"Difenoconazol Vecol 250 EC","presentaci_n":"Envases de 100 ml y 1 litro","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL: 250 gr/ L","nombre_del_producto":"Difenoconazol Vecol 250 EC","presentaci_n":"Envases de 100 ml y 1 litro","tipo_de_cultivo":"YUCA"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL 250 gr/ L + PROPICONAZOL 250 gr/ L\n","nombre_del_producto":"DIFENOPROPICONAZOL","presentaci_n":"Envases de 250 ml y 1 litro","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL 250 gr/ L + PROPICONAZOL 250 gr/ L\n","nombre_del_producto":"DIFENOPROPICONAZOL","presentaci_n":"Envases de 250 ml y 1 litro","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIFENOCONAZOL 250 gr/ L + PROPICONAZOL 250 gr/ L\n","nombre_del_producto":"DIFENOPROPICONAZOL","presentaci_n":"Envases de 250 ml y 1 litro","tipo_de_cultivo":"MAIZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIMETHOMORF 150 gr/Kg + CLOROTHALONIL 500 gr/Kg","nombre_del_producto":"DIMETHALONIL","presentaci_n":"Frascos por 500g, 1 y 5 Kilos","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIMETHOMORF 150 gr/Kg + CLOROTHALONIL 500 gr/Kg","nombre_del_producto":"DIMETHALONIL","presentaci_n":"Frascos por 500g, 1 y 5 Kilos","tipo_de_cultivo":"ROSAS"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIMETHOMORF 150 gr/Kg + CLOROTHALONIL 500 gr/Kg","nombre_del_producto":"DIMETHALONIL","presentaci_n":"Frascos por 500g, 1 y 5 Kilos","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"DIMETHOMORF: 500 gr/Kg","nombre_del_producto":"DIMETHOMORF","presentaci_n":"Bolsa por 120 gramos y 1 kilo","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"FIPRONIL 200gr/L","nombre_del_producto":"FIPRONIL","presentaci_n":"Envases de 250 ml, 1 y 4 litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"FIPRONIL 200gr/L","nombre_del_producto":"FIPRONIL","presentaci_n":"Envases de 250 ml, 1 y 4 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"FIPRONIL 200gr/L","nombre_del_producto":"FIPRONIL","presentaci_n":"Envases de 250 ml, 1 y 4 litros","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"GLIFOSATO: 480 gr/L","nombre_del_producto":"GLIFOSATO","presentaci_n":"Envases de 1, 4, 10, 20 y 200 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"GLIFOSATO: 480 gr/L","nombre_del_producto":"GLIFOSATO","presentaci_n":"Envases de 1, 4, 10, 20 y 200 litros","tipo_de_cultivo":"POTREROS"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"IMIDACLOPRID: 350 gr/L","nombre_del_producto":"IMIDACLOPRID","presentaci_n":"Envases de 100 m, 500 ml, 1, 4 y 20 litros","tipo_de_cultivo":"POTREROS"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"IMIDACLOPRID: 350 gr/L","nombre_del_producto":"IMIDACLOPRID","presentaci_n":"Envases de 100 m, 500 ml, 1, 4 y 20 litros","tipo_de_cultivo":"ROSAS"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"IMIDACLOPRID: 350 gr/L","nombre_del_producto":"IMIDACLOPRID","presentaci_n":"Envases de 100 m, 500 ml, 1, 4 y 20 litros","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"LUFENURON: 50 g/L","nombre_del_producto":"LUFENURON","presentaci_n":"Frascos por 500 mL y 1 Litro","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"LUFENURON: 50 g/L","nombre_del_producto":"LUFENURON","presentaci_n":"Frascos por 500 mL y 1 Litro","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"MANCOZEB: 800 gr/Kg","nombre_del_producto":"MANCOZEB","presentaci_n":"Bolsa por 1, 10 y 25 kilos","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"MANCOZEB: 800 gr/Kg","nombre_del_producto":"MANCOZEB","presentaci_n":"Bolsa por 1, 10 y 25 kilos","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"MANCOZEB: 800 gr/Kg","nombre_del_producto":"MANCOZEB","presentaci_n":"Bolsa por 1, 10 y 25 kilos","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CLETHODIM: 120 gr/L","nombre_del_producto":"MATAGRAM","presentaci_n":"Envases de 250 mL, 1, 4 y 20 litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CLETHODIM: 120 gr/L","nombre_del_producto":"MATAGRAM","presentaci_n":"Envases de 250 mL, 1, 4 y 20 litros","tipo_de_cultivo":"CEBOLLA"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CLETHODIM: 120 gr/L","nombre_del_producto":"MATAGRAM","presentaci_n":"Envases de 250 mL, 1, 4 y 20 litros","tipo_de_cultivo":"SOYA"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"Acido Diclorofenoxiacético 400 gr/L","nombre_del_producto":"MATANCHA SL","presentaci_n":"Envases de 1 , 4 y 20 Litros","tipo_de_cultivo":"POTREROS"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"S-METHOLACLOR: 960 gr/L","nombre_del_producto":"METHOLACLOR","presentaci_n":"Envases de 1, 4 y 20 litros","tipo_de_cultivo":"MAIZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"S-METHOLACLOR: 960 gr/L","nombre_del_producto":"METHOLACLOR","presentaci_n":"Envases de 1, 4 y 20 litros","tipo_de_cultivo":"SORGO"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"S-METHOLACLOR: 960 gr/L","nombre_del_producto":"METHOLACLOR","presentaci_n":"Envases de 1, 4 y 20 litros","tipo_de_cultivo":"YUCA"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"METSULFURON METHYL: 600 gr/K","nombre_del_producto":"METSULFURON","presentaci_n":"Envases de 15, 20, 50 y 100 gramos","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"METSULFURON METHYL: 600 gr/K","nombre_del_producto":"METSULFURON","presentaci_n":"Envases de 15, 20, 50 y 100 gramos","tipo_de_cultivo":"POTREROS"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"THIADIAZURON 500 gr/Kg","nombre_del_producto":"NOCREX","presentaci_n":"Frascos por 200 y 500g, 1 y 10 Kilos","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"Oxadiazon 250 gr/L – Prethilachlor 330 gr/L","nombre_del_producto":"OXACLOR","presentaci_n":"Frascos por 4 y 20 Litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"OXADIAZON: 250 gr/L","nombre_del_producto":"OXADIAZON","presentaci_n":"Envases de 1, 4 y 20 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"OXADIAZON: 250 gr/L","nombre_del_producto":"OXADIAZON","presentaci_n":"Envases de 1, 4 y 20 litros","tipo_de_cultivo":"CEBOLLA"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"PENDIMETALINA: 400 gr/L","nombre_del_producto":"PENDIMETALINA","presentaci_n":"Envases de 4 y 20 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"PENDIMETALINA: 400 gr/L","nombre_del_producto":"PENDIMETALINA","presentaci_n":"Envases de 4 y 20 litros","tipo_de_cultivo":"MAIZ"}
+    ,{"grupo":"HERBICIDAS","ingrediente_activo":"CYHALOFOP-BUTYL 180 gr/L","nombre_del_producto":"PERAGUS","presentaci_n":"Frascos por 1, 4 y 20 Litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"PROPINEB: 700 gr/Kg","nombre_del_producto":"PROPINEB","presentaci_n":"Bolsa por 400 gramos, 5 y 10 kilos","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"PROPINEB: 700 gr/Kg","nombre_del_producto":"PROPINEB","presentaci_n":"Bolsa por 400 gramos, 5 y 10 kilos","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"PROPINEB: 700 gr/Kg - CYMOXANIL: 60 gr/Kg","nombre_del_producto":"PROPIXANIL","presentaci_n":"Bolsas de 500 g y de 1 kilogramo","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":" IMIDACLOPRID: 233 gr/L - TEBUCONAZOLE: 13 gr/L","nombre_del_producto":"RIZZOPRID","presentaci_n":"Frascos por 1 y 4 Litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"CARBENDAZIM 500 gr/L – CIPROCONAZOLE 100 gr/L","nombre_del_producto":"SUKOY","presentaci_n":"Frascos por 200 ml y 1,4 y 20 Litros","tipo_de_cultivo":"CAFÉ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"CARBENDAZIM 500 gr/L – CIPROCONAZOLE 100 gr/L","nombre_del_producto":"SUKOY","presentaci_n":"Frascos por 200 ml y 1,4 y 20 Litros","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN: 100 gr/L - TEBUCONAZOL: 200 gr/L","nombre_del_producto":"TEBUTROBIN","presentaci_n":"Envases de 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN: 100 gr/L - TEBUCONAZOL: 200 gr/L","nombre_del_producto":"TEBUTROBIN","presentaci_n":"Envases de 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"AZOXYSTROBIN: 100 gr/L - TEBUCONAZOL: 200 gr/L","nombre_del_producto":"TEBUTROBIN","presentaci_n":"Envases de 500 mL, 1, 4 y 20 litros","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"ARROZ"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"CEBOLLA"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"CLAVEL"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"PALMA"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"PAPA"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"THIAMETHOXAM 141 gr/L + LAMBDACIALOTRINA 106 gr/L","nombre_del_producto":"THIAMETROXAM","presentaci_n":"Frascos por 100, 250 y 500 c.c. y 1 y 4 Litros","tipo_de_cultivo":"POTREROS"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"IMIDACLOPRID: 350 gr/L - LUFENURON: 50 gr/L","nombre_del_producto":"TROPERO","presentaci_n":"Envases de 100, 250 y 500 c.c. 1 y 4 Litros","tipo_de_cultivo":"ALGODÓN"}
+    ,{"grupo":"INSECTICIDAS","ingrediente_activo":"IMIDACLOPRID: 350 gr/L - LUFENURON: 50 gr/L","nombre_del_producto":"TROPERO","presentaci_n":"Envases de 100, 250 y 500 c.c. 1 y 4 Litros","tipo_de_cultivo":"TOMATE"}
+    ,{"grupo":"FUNGICIDAS","ingrediente_activo":"TRYCICLAZOL: 750 gr/ Kg","nombre_del_producto":"TRYCICLAZOL","presentaci_n":"Bolsa por 1 kilo","tipo_de_cultivo":"ARROZ"}
+    ,{"ingrediente_activo":" "}
+    ,{"ingrediente_activo":" "}]
