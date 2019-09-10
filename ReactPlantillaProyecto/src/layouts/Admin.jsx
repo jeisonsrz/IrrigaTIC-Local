@@ -25,16 +25,14 @@ import store from "../store";
 import { Link } from 'react-router-dom';
 import NuevoProducto from "../views/Mongodb/NuevoProducto";
 import Register from '../components/Register';
-import jsonDatos from "../data/datos.json";
-import jsonDatosInsumosAnimales from "../data/datosInsumosA.json";
-import jsonDatosInsumosAgroquimicos from "../data/datosAgroquimicos.json";
-import jsonDatosTemp from "../data/datosTemYh.json";
+import Mediciones from "../components/mediciones";
+
 
 
 const switchRoutes = (
   <Provider store={store}>
   <Switch>
-       
+           
   <Route path="/admin/productos/nuevo" component={NuevoProducto} />
   <Route exact path="/register" component={ Register } />      
     {routes.map((prop, key) => {
@@ -58,10 +56,8 @@ const switchRoutes = (
 
 class Dashboard extends React.Component {
 
-  state = {instituciones: [], InsumosAnimales: [], InsumosAgroquimicos:[],Temp:[]};
-  componentWillMount(){
-    this.setState({instituciones: jsonDatos,InsumosAnimales: jsonDatosInsumosAnimales,InsumosAgroquimicos: jsonDatosInsumosAgroquimicos, Temp: jsonDatosTemp});
-    }
+  
+
 
   constructor(props) {
     super(props);
