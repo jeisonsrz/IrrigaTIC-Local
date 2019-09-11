@@ -6,7 +6,7 @@ import Gauge from 'react-svg-gauge';
 function ImgSwitch(props){
   const id = props.num;
   if(id<10){
-    return  <Image floated='right' size='mini' src='http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c19d.png'/>;
+    return  <Image floated='right' width='10px' height='10px' src='http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c19d.png'/>;
   }else if(id>10&&id<30){
     return  <Image floated='right' size='mini' src='https://images.vexels.com/media/users/3/141056/isolated/preview/cfbe871d307b2230bcfd92f486bc8505-naranja-realista-by-vexels.png'/>;
   }else if(id>30&&id<40){

@@ -165,6 +165,52 @@ class Notifications extends React.Component {
             </GridItem>
           </GridContainer>
           <br />
+          <Card>
+        
+      <Card.Content>
+      <ImgSwitch num={this.props.Temp.n_mero}></ImgSwitch>
+       <Card.Header><Icon name='theme' />Humedad->{this.props.Temp.humedad_relativa_hr}</Card.Header>
+       
+        <Card.Meta> <Icon name='thermometer empty' />Temperatura->{this.props.Temp.temperatura_c + "**"}</Card.Meta>
+        <Card.Description>
+          Fecha:<strong>{this.props.Temp.fecha_y_hora}</strong>
+          <Gauge
+                value={this.state.Temp}
+                width={200}
+                height={160}
+                label="Temperatura ºC"
+                valueFormatter={value => {
+                  if (value > 80) {
+                    return '🔥☕';
+                  }
+
+                  if (value > 35) {
+                    return '😁';
+                  }
+
+                  return '😓';
+                }} />
+
+<Form.Input
+              label={`Temperatura: ${Temp}ºc `}
+              min={0}
+              max={100}
+              name='Temp'
+              onChange={this.handleChange}
+              step={1}
+              type='range'
+              value={Temp}
+            />
+        </Card.Description>
+       
+      </Card.Content>
+      <Card.Content extra>
+   
+          <Modal basic color='green'></Modal>
+         
+         
+      </Card.Content>
+    </Card>
           <br />
           <GridContainer justify="center">
             <GridItem xs={12} sm={12} md={6} style={{ textAlign: "center" }}>

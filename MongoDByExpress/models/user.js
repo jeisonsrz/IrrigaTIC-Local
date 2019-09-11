@@ -1,6 +1,6 @@
-const mongo = require("mongoose");
+const mongo2 = require("mongoose");
 
-const userScheme = new mongo.Schema({
+const userScheme = new mongo2.Schema({
 
     nombre: {type: String},
     area : {type: String},
@@ -9,4 +9,4 @@ const userScheme = new mongo.Schema({
 
 });
 
-module.exports = mongo.model("User", userScheme);
+module.exports = mongo2.model("productos", userScheme);

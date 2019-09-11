@@ -22,22 +22,22 @@ import NuevoProducto from "./views/Mongodb/NuevoProducto";
 // import UpgradeToPro from "views/UpgradeToPro/UpgradeToPro.jsx";
 // // core components/views for RTL layout
 // import RTLPage from "views/RTLPage/RTLPage.jsx";
-import Register from './components/Register';
+import RegisterCliente from './components/RegisterCliente';
 import Firebase from './components/Firebase';
-import Mediciones from './components/mediciones.jsx';
+import Mediciones from './components/mediciones';
 import { Link } from 'react-router-dom';
-
+import PruebaLogin from './components/LoginFirebase';
 
 
 const dashboardRoutes = [
-  {
+ /*{
     path: "/dashboard",
     name: "Dashboard",
     rtlName: "لوحة القيادة",
     icon: Dashboard,
     component: DashboardPage,
     layout: "/admin"
-  },
+  }, */
   {
     path: "/user",
     name: "Perfil Usuario",
@@ -88,7 +88,7 @@ const dashboardRoutes = [
   },
   {
     path: "/mongodb",
-    name: "MongoDB",
+    name: "Productos Eureka-MongoDB",
     rtlName: "إخطارات",
     icon: 'adb',
     component: Productos,
@@ -107,7 +107,7 @@ const dashboardRoutes = [
     name: "Registro CLIENTE",
     rtlName: "إخطارات",
     icon: 'adb',
-    component: Register,
+    component: RegisterCliente,
     layout: "/admin"
   },
 
@@ -126,9 +126,18 @@ const dashboardRoutes = [
     rtlName: "إخطارات",
     icon: 'adb',
     layout: "/admin",
-
    
-  }
+  },
+  
+  {
+    path: "/firebaseLogin",
+    name: "Prueba Login F",
+    rtlName: "إخطارات",
+    icon: 'adb',
+    component: PruebaLogin,
+    layout: "/admin"
+  },  
+
 
   // {
   //   path: "/upgrade-to-pro",

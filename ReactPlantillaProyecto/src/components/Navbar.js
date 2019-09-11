@@ -30,7 +30,10 @@ class Navbar extends Component {
                 <Link className="nav-link" to="/register">Registro</Link>
             </li>
             <li className="nav-item">
-                <Link className="nav-link" to="/login">Iniciar Sesión</Link>
+                <Link className="nav-link" to="/login">Admin</Link>
+            </li>
+            <li className="nav-item">
+                <Link className="nav-link" to="/loginclientes">Login Clientes</Link>
             </li>
         </ul>
       )

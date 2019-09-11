@@ -18,7 +18,8 @@ import jsonDatosInsumosAnimales from "./data/datosInsumosA.json";
 import jsonDatosInsumosAgroquimicos from "./data/datosAgroquimicos.json";
 import jsonDatosTemp from "./data/datosTemYh.json";
 import Mediciones from "./components/mediciones";
-
+import NotificationsPage from "views/Notifications/Notifications.jsx";
+import LoginFirebase from './components/LoginFirebase';
 
 
 if(localStorage.jwtToken) {
@@ -55,10 +56,17 @@ class App extends Component {
 
                     }
                     } />
+
+<Route path="/admin/notifications" render={()=>{
+                       return(<NotificationsPage   Temp1={this.state.Temp}  ></NotificationsPage>) 
+
+                    }
+                    } />
+
                 <div className="container">
                   <Route exact path="/register" component={ Register } />
                   <Route exact path="/login" component={ Login } />
-                 
+                  <Route exact path="/loginclientes" component={ LoginFirebase } />
                 </div>
             </div>
           
