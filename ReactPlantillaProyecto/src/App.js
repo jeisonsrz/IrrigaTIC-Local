@@ -18,7 +18,7 @@ import jsonDatosInsumosAnimales from "./data/datosInsumosA.json";
 import jsonDatosInsumosAgroquimicos from "./data/datosAgroquimicos.json";
 import jsonDatosTemp from "./data/datosTemYh.json";
 import Mediciones from "./components/mediciones";
-import NotificationsPage from "views/Notifications/Notifications.jsx";
+import NotificationsPage from "./views/Notifications/Notifications";
 import LoginFirebase from './components/LoginFirebase';
 
 
@@ -58,7 +58,7 @@ class App extends Component {
                     } />
 
 <Route path="/admin/notifications" render={()=>{
-                       return(<NotificationsPage   Temp1={this.state.Temp}  ></NotificationsPage>) 
+                       return(<NotificationsPage   Temp3={this.state.Temp}  ></NotificationsPage>) 
 
                     }
                     } />
